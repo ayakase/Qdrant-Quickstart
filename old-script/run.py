@@ -1,3 +1,5 @@
+# kept for reference
+
 from qdrant_client import models, QdrantClient
 from sentence_transformers import SentenceTransformer
 from dataset import documents
